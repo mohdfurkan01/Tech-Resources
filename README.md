@@ -2,6 +2,8 @@
 
 # What is an API?
 
+A comprehensive and visually appealing resource covering every aspect of APIs, from beginner-friendly concepts to advanced implementations. Perfect for learning, exploring, and mastering the art of API development
+
 [click here](https://rapidapi.com/learn/rest)
 
 # Quick Practice with apis
